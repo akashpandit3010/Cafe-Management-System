@@ -4,7 +4,9 @@ Note: This is a very simple, 3 Form software, with no Database intergration.
 
 To run this project execute the Cafe Management.sln file. This is built version of the project.
 The first page is welcome page
+
 ![image](https://github.com/user-attachments/assets/2de8aa33-cfc0-4e7b-bc9c-7acd2c12d4b7)
+
 Click on next and enter on the second page, where you find the Login inputs. Enter the details like username:**"Admin"** and password: **"admin123"**.
 
 ![image](https://github.com/user-attachments/assets/f4fa26cb-3770-4634-acb7-5f4d8c4bc3ec)
